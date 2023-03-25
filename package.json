@@ -1,0 +1,16 @@
+{
+  "name": "html-css-assignment-2",
+  "version": "1.0.0",
+  "main": "test.js",
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "jsdom": "20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jest --noStackTrace"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
